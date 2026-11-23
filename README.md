@@ -18,9 +18,11 @@ I work mainly with **PHP, JavaScript, TypeScript and SQL**, with experience in W
 
 ## Featured projects
 
-### [Richard Informatique — Interactive Web Experience](https://richard-informatique.com/)
+### [Richard Informatique — Interactive Web Experience](https://github.com/ridev-lab/richard-informatique)
 
 **JavaScript · Three.js · WebGL · GLSL · GSAP · Vite**
+
+[**View source code**](https://github.com/ridev-lab/richard-informatique) · [Live website](https://richard-informatique.com/) · [Technical architecture](https://github.com/ridev-lab/richard-informatique/blob/main/docs/ARCHITECTURE.md) · [Build checks](https://github.com/ridev-lab/richard-informatique/actions/workflows/ci.yml)
 
 A custom professional website with a procedural 3D particle scene, GPU shaders, scroll-driven transitions and responsive interactions. Built with native JavaScript modules and an automated build pipeline.
 
@@ -40,7 +42,7 @@ A production editorial platform supported by custom development: premium content
 
 **Interactive games:** React/TypeScript mini-game experiments and Unity/C# prototypes.
 
-*Source repositories are being reviewed and prepared for publication. Public links will be added when their code is ready for review.*
+*Additional repositories will be linked as they become ready for public technical review.*
 
 ## Technologies
 
