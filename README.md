@@ -4,9 +4,9 @@
 
 **Building useful products, reliable backend features and engaging web experiences.**
 
-PHP · JavaScript · TypeScript · SQL · WordPress · APIs · Creative Frontend
+Python · PHP · JavaScript · TypeScript · SQL · APIs · WordPress
 
-[**Portfolio & contact**](https://richard-informatique.com/) &nbsp;·&nbsp; [**Live MMA platform**](https://goatafight.com/) &nbsp;·&nbsp; [**Explore the code**](https://github.com/ridev-lab?tab=repositories)
+[**Auto Clipper — Open Source**](https://github.com/ridev-lab/auto-clipper) &nbsp;·&nbsp; [**Portfolio & contact**](https://richard-informatique.com/) &nbsp;·&nbsp; [**Live MMA platform**](https://goatafight.com/) &nbsp;·&nbsp; [**Explore the code**](https://github.com/ridev-lab?tab=repositories)
 
 </div>
 
@@ -16,13 +16,26 @@ PHP · JavaScript · TypeScript · SQL · WordPress · APIs · Creative Frontend
 
 I'm a developer based in **France**, working across **backend logic, custom web applications and interactive user experiences**. Through my own development activity, **Richard Informatique**, I build and maintain websites and tailored features for real businesses, alongside independent products such as **GoataFight**.
 
-My main stack is **PHP, JavaScript, TypeScript and SQL**. I enjoy the parts of software development where architecture meets a practical requirement: integrating external services, designing access-control workflows, creating reusable components and bringing a project all the way to a usable release.
+My work spans **Python, PHP, JavaScript, TypeScript and SQL**. I enjoy the parts of software development where architecture meets a practical requirement: integrating external services, designing access-control workflows, creating reusable components and bringing a project all the way to a usable release.
 
 I have previously worked with **Java / Android**, and I'm currently refreshing my modern Java backend skills. Outside traditional web projects, I've explored Solidity smart contracts, React mini-apps and Unity prototypes.
 
 ## ⭐ Featured engineering work
 
-### 01 / [Richard Informatique — Interactive Web Experience](https://github.com/ridev-lab/richard-informatique)
+### 01 / [Auto Clipper — Local AI Video Clipping Studio](https://github.com/ridev-lab/auto-clipper)
+
+**Python · FastAPI · SQLite · Ollama · faster-whisper · FFmpeg · Vanilla JavaScript**
+
+An **open-source, local-first video production tool** that turns video files or YouTube links into editable vertical clips for Shorts, Reels and TikTok. It combines transcript analysis with audio/scene/motion signals and lets creators review and fine-tune the results in a local web interface.
+
+- **Backend engineering:** a modular Python media pipeline, FastAPI endpoints, background job queue and SQLite-based project history.
+- **Local AI:** faster-whisper for transcription and Ollama for narrative highlight suggestions; a separate signal-only path supports gameplay with little or no speech.
+- **Creative tooling:** interactive browser editor with timeline, subtitles, cropping, preview and final FFmpeg rendering.
+- **Developer experience:** Windows setup scripts, bilingual documentation, unit tests, automated CI and GPLv3 licensing.
+
+[**Browse the code**](https://github.com/ridev-lab/auto-clipper) · [French setup guide](https://github.com/ridev-lab/auto-clipper/blob/main/README.md) · [English documentation](https://github.com/ridev-lab/auto-clipper/blob/main/README.en.md) · [Tests](https://github.com/ridev-lab/auto-clipper/actions/workflows/tests.yml)
+
+### 02 / [Richard Informatique — Interactive Web Experience](https://github.com/ridev-lab/richard-informatique)
 
 **JavaScript · Three.js · GLSL · WebGL · GSAP · ScrollTrigger · Lenis · Vite**
 
@@ -35,7 +48,7 @@ An interactive, multi-page professional website designed and implemented with na
 
 [**View source**](https://github.com/ridev-lab/richard-informatique) · [Live demo](https://richard-informatique.com/) · [**Read technical case study**](https://github.com/ridev-lab/richard-informatique/blob/main/docs/CASE_STUDY.md) · [CI checks](https://github.com/ridev-lab/richard-informatique/actions/workflows/ci.yml)
 
-### 02 / [GoataFight Premium — WordPress subscription plugin](https://github.com/ridev-lab/goatafight-premium-showcase)
+### 03 / [GoataFight Premium — WordPress subscription plugin](https://github.com/ridev-lab/goatafight-premium-showcase)
 
 **PHP · WordPress · JavaScript · AJAX · SQL · Third-party integrations**
 
@@ -49,7 +62,7 @@ A live MMA publishing platform that I develop and extend with custom functionali
 
 *The published repository is a curated source snapshot. The original internal development repository remains private; WordPress integration testing is separate from the automated PHP checks.*
 
-### 03 / Prototypes & technical exploration
+### 04 / Prototypes & technical exploration
 
 I also use smaller projects to explore technologies outside my principal professional stack.
 
@@ -65,11 +78,11 @@ I also use smaller projects to explore technologies outside my principal profess
 
 | Focus | Technologies & practices |
 | --- | --- |
-| **Backend development** | PHP, JavaScript, SQL, WordPress hooks, AJAX, REST APIs |
+| **Backend development** | Python, FastAPI, PHP, JavaScript, SQL, WordPress hooks, AJAX, REST APIs |
 | **Frontend development** | JavaScript ES modules, TypeScript, HTML, CSS, React |
 | **Interactive graphics** | Three.js, WebGL, GLSL, GSAP, ScrollTrigger |
 | **CMS & commerce** | WordPress, WooCommerce, custom themes/plugins |
-| **Tooling & delivery** | Git, GitHub, GitHub Actions, Vite, npm |
+| **Tooling & delivery** | Git, GitHub Actions, Vite, npm, pytest, FFmpeg |
 | **Other experience** | Java/Android, Solidity, Hardhat, Next.js, C#/Unity prototypes |
 
 ## 🔍 How I approach a project
@@ -87,7 +100,7 @@ For an example of the code-level approach, see the [Richard Informatique archite
 ## 🚀 Current focus
 
 - Deepening modern **Java backend** skills, especially Spring Boot and JPA/Hibernate.
-- Preparing selected professional projects as **reviewable public repositories**.
+- Maintaining and improving **Auto Clipper**, a GPLv3 local-first video automation tool.
 - Continuing the development of custom web applications and GoataFight.
 
 ## 📬 Contact & opportunities
