@@ -35,7 +35,7 @@ An interactive, multi-page professional website designed and implemented with na
 
 [**View source**](https://github.com/ridev-lab/richard-informatique) · [Live demo](https://richard-informatique.com/) · [**Read technical case study**](https://github.com/ridev-lab/richard-informatique/blob/main/docs/CASE_STUDY.md) · [CI checks](https://github.com/ridev-lab/richard-informatique/actions/workflows/ci.yml)
 
-### 02 / [GoataFight — MMA Publishing & Custom WordPress Development](https://goatafight.com/)
+### 02 / [GoataFight Premium — WordPress subscription plugin](https://github.com/ridev-lab/goatafight-premium-showcase)
 
 **PHP · WordPress · JavaScript · AJAX · SQL · Third-party integrations**
 
@@ -45,9 +45,9 @@ A live MMA publishing platform that I develop and extend with custom functionali
 - **Subscription workflows:** premium content segmentation, access checks and integration with Google Reader Revenue Manager.
 - **Product engineering:** building features around the needs of an active editorial website, including the reader experience and site operations.
 
-[**Explore GoataFight**](https://goatafight.com/)
+[**View PHP source and tests**](https://github.com/ridev-lab/goatafight-premium-showcase) · [Architecture](https://github.com/ridev-lab/goatafight-premium-showcase/blob/main/docs/ARCHITECTURE.md) · [Live GoataFight](https://goatafight.com/)
 
-*The GoataFight Premium source is currently private while its public release is reviewed. The live platform is available to explore.*
+*The published repository is a curated source snapshot. The original internal development repository remains private; WordPress integration testing is separate from the automated PHP checks.*
 
 ### 03 / Prototypes & technical exploration
 
